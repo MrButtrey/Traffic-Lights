@@ -1,0 +1,7 @@
+These are the pins to use for components to have the script work out of the box.
+
+Button GPIO 21
+Red LED GPIO 25
+Amber LED GPIO 8
+Green LED GPIO 7
+Buzzer GPIO 15
